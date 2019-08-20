@@ -1,0 +1,9 @@
+
+
+version: 1.0
+==================
+
+Project: CodeLab - Bootstrap 4 Responsive Admin Template
+Author: VectorLab
+Web: http://thevectorlab.net
+
